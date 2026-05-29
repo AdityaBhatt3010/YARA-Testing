@@ -1,0 +1,14 @@
+PE Loader Stub
+
+Required APIs:
+VirtualAlloc
+WriteProcessMemory
+CreateRemoteThread
+
+Payload encrypted using Windows CryptoAPI.
+CryptDecrypt routine located at 0x401250.
+
+Network beacon:
+192.168.33.45
+
+Status: Waiting for execution.

@@ -1,0 +1,13 @@
+Configuration Data
+
+UserToken=ABCD1234
+SessionID=99123
+
+Payload=HiddenData
+
+Runtime APIs:
+VirtualAlloc
+
+DebugCheck=False
+
+Execution Mode=Stealth

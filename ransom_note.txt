@@ -1,0 +1,7 @@
+You are Hacked
+
+Your H.D.D Encrypted , Contact Us For Decryption Key
+
+SYSTEM\CurrentControlSet\Services\dcrypt\config
+
+DiskCryptor
